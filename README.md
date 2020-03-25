@@ -1,7 +1,5 @@
 # Pixyll
 
-[pixyll.com](http://www.pixyll.com)
-
 ![Pixyll screenshot](./screenshot.png)
 
 Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
@@ -45,7 +43,6 @@ email: your_email@example.com
 author: John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl: ""
-url: "http://pixyll.com"
 
 # Build settings
 markdown: kramdown
@@ -143,8 +140,6 @@ See [documentation](http://bryanbraun.github.io/anchorjs/#basic-usage) for more 
 
 ### Put in a Pixyll Plug
 
-If you want to give credit to the Pixyll theme with a link to <http://pixyll.com> or my personal website <http://johnotander.com> somewhere, that'd be awesome. No worries if you don't.
-
 ### Web analytics and search engines
 
 You can measure visits to your website either by using [Google Analytics](https://www.google.com/analytics/) tracking embed or the more advanced [Google Tag Manager](https://www.google.com/analytics/tag-manager/) container.
@@ -229,7 +224,3 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
-
-## Forking
-
-There is a [guide to forking Pixyll](http://pixyll.com/jekyll/pixyll/2019/01/26/guide-to-forking-pixyll/).
